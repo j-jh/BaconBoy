@@ -1,9 +1,7 @@
 
 Jadon Huang
-20513511
-Assignment 2
 
-The Kevin Bacon program runs as expected in accordance to the project guideline's provided sample outputs.
+Kevin Bacon's Law/6 degrees of connections program.
 
 Notes: 
 
